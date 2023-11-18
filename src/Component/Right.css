@@ -1,0 +1,55 @@
+.mycv2{
+    background-color: teal;
+    width: 450px;
+    margin-top: 40px;
+    height: 1360px;
+    color: white;
+    border: 1px solid black;
+}
+
+.myname{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+.haqqimda, .istecrubesi, .tehsil, .proqrambiliyi, .sertifikatlar, .keyfiyyetler, .verdis{
+    height: 27px;
+    width: 200px;
+    background-color: #553a27;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.textright, .texttehsil, .istecrubesi1{
+    margin-left: 50px;
+}
+
+.proqrambiliyi1{
+    margin-left: 25px;
+}
+
+.Certificates{
+    margin-left: 60px;
+}
+
+.personal{
+    margin-left: 40px;
+}
+
+.hobbi{
+    margin-left: 75px;
+}
+
+a{
+color: white;
+}
+
+.hobbiler{
+    display: flex;
+}
+
+.music{
+    margin-left: 15px;
+    margin-top: 32px;
+}

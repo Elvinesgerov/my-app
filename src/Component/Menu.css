@@ -1,0 +1,89 @@
+.box1{
+    background-color: #e5c2ac;
+    width: 220px;
+    height: 1360px;
+    margin-top: 40px;
+    margin-left: 40px;
+    border: 1px solid black;
+}
+
+.mobile{
+    width: 25px;
+    margin-top: 20px;
+    margin-left: 7px;
+}
+
+.number{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 25px;
+    font-weight: 500;
+}
+
+.box3, .box4, .box5{
+    display: flex;
+}
+
+.message{
+    width: 25px;
+    margin-top: -5px;
+    margin-left: 7px;
+}
+
+.email{
+    font-size: 14px;
+    margin-left: 8px;
+    margin-top: 4px;
+    font-weight: 500;
+}
+
+.home{
+    width: 25px;
+    margin-left: 7px;
+    margin-top: -15px;
+}
+
+.adress{
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 15px;
+    margin-top: -5px;
+}
+
+.box6{
+    height: 27px;
+    width: 200px;
+    background-color: #553a27;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.dilbiliyi{
+    margin-left: 40px;
+}
+
+.azerbaycandili{
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.turkce{
+    margin-left: 20px;
+    font-weight: 700;
+    font-size: 17px;
+    margin-top: px;
+}
+
+.inglish{
+    background-color: blue;
+    width: 80px;
+    margin-left: 12px;
+}
+
+.ing1{
+    background-color: white;
+    width: 100px;
+    color: white;
+}
